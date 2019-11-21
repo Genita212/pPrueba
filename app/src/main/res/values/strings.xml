@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pPrueba</string>
+    <string name="hint1">Ingresa color</string>
+    <string name="btn1">Enviar</string>
+</resources>
